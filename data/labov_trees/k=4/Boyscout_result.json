@@ -1,0 +1,5443 @@
+{
+  "original_text": "Yeah I was in the boy scouts at the time. And we was doing the 50-yard dash racing but we was at the pier marked off and so we was doing the 50-yard dash. There was about 8 or 9 of us you know, going down, coming back. And going down the third time I caught cramps and I started yelling \"Help!\" but the fellows didn't believe me you know. They thought I was just trying to catch up because I was going on or slowing down. So all of them kept going. They leave me. And so I started going down. Scoutmaster was up there. He was watching me. But he didn't pay me no attention either. And for no reason at all there was another guy who had just walked up that minute... He just jumped over and grabbed me.",
+  "tokens": [
+    "Yeah",
+    " I",
+    " was",
+    " in",
+    " the",
+    " boy",
+    " scouts",
+    " at",
+    " the",
+    " time",
+    ".",
+    " And",
+    " we",
+    " was",
+    " doing",
+    " the",
+    " ",
+    "50",
+    "-yard",
+    " dash",
+    " racing",
+    " but",
+    " we",
+    " was",
+    " at",
+    " the",
+    " pier",
+    " marked",
+    " off",
+    " and",
+    " so",
+    " we",
+    " was",
+    " doing",
+    " the",
+    " ",
+    "50",
+    "-yard",
+    " dash",
+    ".",
+    " There",
+    " was",
+    " about",
+    " ",
+    "8",
+    " or",
+    " ",
+    "9",
+    " of",
+    " us",
+    " you",
+    " know",
+    ",",
+    " going",
+    " down",
+    ",",
+    " coming",
+    " back",
+    ".",
+    " And",
+    " going",
+    " down",
+    " the",
+    " third",
+    " time",
+    " I",
+    " caught",
+    " cr",
+    "amps",
+    " and",
+    " I",
+    " started",
+    " yelling",
+    " \"",
+    "Help",
+    "!\"",
+    " but",
+    " the",
+    " fellows",
+    " didn",
+    "'t",
+    " believe",
+    " me",
+    " you",
+    " know",
+    ".",
+    " They",
+    " thought",
+    " I",
+    " was",
+    " just",
+    " trying",
+    " to",
+    " catch",
+    " up",
+    " because",
+    " I",
+    " was",
+    " going",
+    " on",
+    " or",
+    " slowing",
+    " down",
+    ".",
+    " So",
+    " all",
+    " of",
+    " them",
+    " kept",
+    " going",
+    ".",
+    " They",
+    " leave",
+    " me",
+    ".",
+    " And",
+    " so",
+    " I",
+    " started",
+    " going",
+    " down",
+    ".",
+    " Scout",
+    "master",
+    " was",
+    " up",
+    " there",
+    ".",
+    " He",
+    " was",
+    " watching",
+    " me",
+    ".",
+    " But",
+    " he",
+    " didn",
+    "'t",
+    " pay",
+    " me",
+    " no",
+    " attention",
+    " either",
+    ".",
+    " And",
+    " for",
+    " no",
+    " reason",
+    " at",
+    " all",
+    " there",
+    " was",
+    " another",
+    " guy",
+    " who",
+    " had",
+    " just",
+    " walked",
+    " up",
+    " that",
+    " minute",
+    "...",
+    " He",
+    " just",
+    " jumped",
+    " over",
+    " and",
+    " grabbed",
+    " me",
+    "."
+  ],
+  "token_indices": [
+    0,
+    4,
+    6,
+    10,
+    13,
+    17,
+    21,
+    28,
+    31,
+    35,
+    40,
+    41,
+    45,
+    48,
+    52,
+    58,
+    62,
+    63,
+    65,
+    70,
+    75,
+    82,
+    86,
+    89,
+    93,
+    96,
+    100,
+    105,
+    112,
+    116,
+    120,
+    123,
+    126,
+    130,
+    136,
+    140,
+    141,
+    143,
+    148,
+    153,
+    154,
+    160,
+    164,
+    170,
+    171,
+    172,
+    175,
+    176,
+    177,
+    180,
+    183,
+    187,
+    192,
+    193,
+    199,
+    204,
+    205,
+    212,
+    217,
+    218,
+    222,
+    228,
+    233,
+    237,
+    243,
+    248,
+    250,
+    257,
+    260,
+    264,
+    268,
+    270,
+    278,
+    286,
+    288,
+    292,
+    294,
+    298,
+    302,
+    310,
+    315,
+    317,
+    325,
+    328,
+    332,
+    337,
+    338,
+    343,
+    351,
+    353,
+    357,
+    362,
+    369,
+    372,
+    378,
+    381,
+    389,
+    391,
+    395,
+    401,
+    404,
+    407,
+    415,
+    420,
+    421,
+    424,
+    428,
+    431,
+    436,
+    441,
+    447,
+    448,
+    453,
+    459,
+    462,
+    463,
+    467,
+    470,
+    472,
+    480,
+    486,
+    491,
+    492,
+    498,
+    504,
+    508,
+    511,
+    517,
+    518,
+    521,
+    525,
+    534,
+    537,
+    538,
+    542,
+    545,
+    550,
+    552,
+    556,
+    559,
+    562,
+    572,
+    579,
+    580,
+    584,
+    588,
+    591,
+    598,
+    601,
+    605,
+    611,
+    615,
+    623,
+    627,
+    631,
+    635,
+    640,
+    647,
+    650,
+    655,
+    662,
+    665,
+    668,
+    673,
+    680,
+    685,
+    689,
+    697,
+    700
+  ],
+  "hierarchy": {
+    "text": "Yeah I was in the boy scouts at the time. And we was doing the 50-yard dash racing but we was at the pier marked off and so we was doing the 50-yard dash. There was about 8 or 9 of us you know, going down, coming back. And going down the third time I caught cramps and I started yelling \"Help!\" but the fellows didn't believe me you know. They thought I was just trying to catch up because I was going on or slowing down. So all of them kept going. They leave me. And so I started going down. Scoutmaster was up there. He was watching me. But he didn't pay me no attention either. And for no reason at all there was another guy who had just walked up that minute... He just jumped over and grabbed me.",
+    "token_range": [
+      0,
+      169
+    ],
+    "level": 0,
+    "children": [
+      {
+        "text": "Yeah I was in the boy scouts at the time.",
+        "token_range": [
+          0,
+          11
+        ],
+        "level": 1,
+        "children": [
+          {
+            "text": "Yeah I was in",
+            "token_range": [
+              0,
+              4
+            ],
+            "level": 2,
+            "children": [
+              {
+                "text": "Yeah",
+                "token_range": [
+                  0,
+                  1
+                ],
+                "level": 3,
+                "children": null
+              },
+              {
+                "text": " I was in",
+                "token_range": [
+                  1,
+                  4
+                ],
+                "level": 3,
+                "children": [
+                  {
+                    "text": " I",
+                    "token_range": [
+                      1,
+                      2
+                    ],
+                    "level": 4,
+                    "children": null
+                  },
+                  {
+                    "text": " was in",
+                    "token_range": [
+                      2,
+                      4
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " was",
+                        "token_range": [
+                          2,
+                          3
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": " in",
+                        "token_range": [
+                          3,
+                          4
+                        ],
+                        "level": 5,
+                        "children": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": " the boy scouts",
+            "token_range": [
+              4,
+              7
+            ],
+            "level": 2,
+            "children": [
+              {
+                "text": " the",
+                "token_range": [
+                  4,
+                  5
+                ],
+                "level": 3,
+                "children": null
+              },
+              {
+                "text": " boy scouts",
+                "token_range": [
+                  5,
+                  7
+                ],
+                "level": 3,
+                "children": [
+                  {
+                    "text": " boy",
+                    "token_range": [
+                      5,
+                      6
+                    ],
+                    "level": 4,
+                    "children": null
+                  },
+                  {
+                    "text": " scouts",
+                    "token_range": [
+                      6,
+                      7
+                    ],
+                    "level": 4,
+                    "children": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": " at the time.",
+            "token_range": [
+              7,
+              11
+            ],
+            "level": 2,
+            "children": [
+              {
+                "text": " at the time",
+                "token_range": [
+                  7,
+                  10
+                ],
+                "level": 3,
+                "children": [
+                  {
+                    "text": " at",
+                    "token_range": [
+                      7,
+                      8
+                    ],
+                    "level": 4,
+                    "children": null
+                  },
+                  {
+                    "text": " the time",
+                    "token_range": [
+                      8,
+                      10
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " the",
+                        "token_range": [
+                          8,
+                          9
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": " time",
+                        "token_range": [
+                          9,
+                          10
+                        ],
+                        "level": 5,
+                        "children": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": ".",
+                "token_range": [
+                  10,
+                  11
+                ],
+                "level": 3,
+                "children": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": " And we was doing the 50-yard dash racing but we was at the pier marked off and so we was doing the 50-yard dash.",
+        "token_range": [
+          11,
+          40
+        ],
+        "level": 1,
+        "children": [
+          {
+            "text": " And we was doing the 50-yard dash racing",
+            "token_range": [
+              11,
+              21
+            ],
+            "level": 2,
+            "children": [
+              {
+                "text": " And we was doing",
+                "token_range": [
+                  11,
+                  15
+                ],
+                "level": 3,
+                "children": [
+                  {
+                    "text": " And",
+                    "token_range": [
+                      11,
+                      12
+                    ],
+                    "level": 4,
+                    "children": null
+                  },
+                  {
+                    "text": " we was doing",
+                    "token_range": [
+                      12,
+                      15
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " we",
+                        "token_range": [
+                          12,
+                          13
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": " was doing",
+                        "token_range": [
+                          13,
+                          15
+                        ],
+                        "level": 5,
+                        "children": [
+                          {
+                            "text": " was",
+                            "token_range": [
+                              13,
+                              14
+                            ],
+                            "level": 6,
+                            "children": null
+                          },
+                          {
+                            "text": " doing",
+                            "token_range": [
+                              14,
+                              15
+                            ],
+                            "level": 6,
+                            "children": null
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": " the 50-yard dash racing",
+                "token_range": [
+                  15,
+                  21
+                ],
+                "level": 3,
+                "children": [
+                  {
+                    "text": " the 50-yard",
+                    "token_range": [
+                      15,
+                      19
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " the",
+                        "token_range": [
+                          15,
+                          16
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": " 50-yard",
+                        "token_range": [
+                          16,
+                          19
+                        ],
+                        "level": 5,
+                        "children": [
+                          {
+                            "text": " ",
+                            "token_range": [
+                              16,
+                              17
+                            ],
+                            "level": 6,
+                            "children": null
+                          },
+                          {
+                            "text": "50-yard",
+                            "token_range": [
+                              17,
+                              19
+                            ],
+                            "level": 6,
+                            "children": [
+                              {
+                                "text": "50",
+                                "token_range": [
+                                  17,
+                                  18
+                                ],
+                                "level": 7,
+                                "children": null
+                              },
+                              {
+                                "text": "-yard",
+                                "token_range": [
+                                  18,
+                                  19
+                                ],
+                                "level": 7,
+                                "children": null
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": " dash racing",
+                    "token_range": [
+                      19,
+                      21
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " dash",
+                        "token_range": [
+                          19,
+                          20
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": " racing",
+                        "token_range": [
+                          20,
+                          21
+                        ],
+                        "level": 5,
+                        "children": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": " but we was at the pier marked off",
+            "token_range": [
+              21,
+              29
+            ],
+            "level": 2,
+            "children": [
+              {
+                "text": " but",
+                "token_range": [
+                  21,
+                  22
+                ],
+                "level": 3,
+                "children": null
+              },
+              {
+                "text": " we was at",
+                "token_range": [
+                  22,
+                  25
+                ],
+                "level": 3,
+                "children": [
+                  {
+                    "text": " we",
+                    "token_range": [
+                      22,
+                      23
+                    ],
+                    "level": 4,
+                    "children": null
+                  },
+                  {
+                    "text": " was at",
+                    "token_range": [
+                      23,
+                      25
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " was",
+                        "token_range": [
+                          23,
+                          24
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": " at",
+                        "token_range": [
+                          24,
+                          25
+                        ],
+                        "level": 5,
+                        "children": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": " the pier marked off",
+                "token_range": [
+                  25,
+                  29
+                ],
+                "level": 3,
+                "children": [
+                  {
+                    "text": " the pier",
+                    "token_range": [
+                      25,
+                      27
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " the",
+                        "token_range": [
+                          25,
+                          26
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": " pier",
+                        "token_range": [
+                          26,
+                          27
+                        ],
+                        "level": 5,
+                        "children": null
+                      }
+                    ]
+                  },
+                  {
+                    "text": " marked off",
+                    "token_range": [
+                      27,
+                      29
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " marked",
+                        "token_range": [
+                          27,
+                          28
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": " off",
+                        "token_range": [
+                          28,
+                          29
+                        ],
+                        "level": 5,
+                        "children": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": " and so we was doing the 50-yard dash.",
+            "token_range": [
+              29,
+              40
+            ],
+            "level": 2,
+            "children": [
+              {
+                "text": " and so",
+                "token_range": [
+                  29,
+                  31
+                ],
+                "level": 3,
+                "children": [
+                  {
+                    "text": " and",
+                    "token_range": [
+                      29,
+                      30
+                    ],
+                    "level": 4,
+                    "children": null
+                  },
+                  {
+                    "text": " so",
+                    "token_range": [
+                      30,
+                      31
+                    ],
+                    "level": 4,
+                    "children": null
+                  }
+                ]
+              },
+              {
+                "text": " we was doing",
+                "token_range": [
+                  31,
+                  34
+                ],
+                "level": 3,
+                "children": [
+                  {
+                    "text": " we",
+                    "token_range": [
+                      31,
+                      32
+                    ],
+                    "level": 4,
+                    "children": null
+                  },
+                  {
+                    "text": " was doing",
+                    "token_range": [
+                      32,
+                      34
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " was",
+                        "token_range": [
+                          32,
+                          33
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": " doing",
+                        "token_range": [
+                          33,
+                          34
+                        ],
+                        "level": 5,
+                        "children": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": " the 50-yard dash.",
+                "token_range": [
+                  34,
+                  40
+                ],
+                "level": 3,
+                "children": [
+                  {
+                    "text": " the 50-yard dash",
+                    "token_range": [
+                      34,
+                      39
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " the 50-yard",
+                        "token_range": [
+                          34,
+                          38
+                        ],
+                        "level": 5,
+                        "children": [
+                          {
+                            "text": " the",
+                            "token_range": [
+                              34,
+                              35
+                            ],
+                            "level": 6,
+                            "children": null
+                          },
+                          {
+                            "text": " 50-yard",
+                            "token_range": [
+                              35,
+                              38
+                            ],
+                            "level": 6,
+                            "children": [
+                              {
+                                "text": " ",
+                                "token_range": [
+                                  35,
+                                  36
+                                ],
+                                "level": 7,
+                                "children": null
+                              },
+                              {
+                                "text": "50-yard",
+                                "token_range": [
+                                  36,
+                                  38
+                                ],
+                                "level": 7,
+                                "children": [
+                                  {
+                                    "text": "50",
+                                    "token_range": [
+                                      36,
+                                      37
+                                    ],
+                                    "level": 8,
+                                    "children": null
+                                  },
+                                  {
+                                    "text": "-yard",
+                                    "token_range": [
+                                      37,
+                                      38
+                                    ],
+                                    "level": 8,
+                                    "children": null
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "text": " dash",
+                        "token_range": [
+                          38,
+                          39
+                        ],
+                        "level": 5,
+                        "children": null
+                      }
+                    ]
+                  },
+                  {
+                    "text": ".",
+                    "token_range": [
+                      39,
+                      40
+                    ],
+                    "level": 4,
+                    "children": null
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": " There was about 8 or 9 of us you know, going down, coming back. And going down the third time I caught cramps and I started yelling \"Help!\" but the fellows didn't believe me you know.",
+        "token_range": [
+          40,
+          86
+        ],
+        "level": 1,
+        "children": [
+          {
+            "text": " There was about 8 or 9 of us you know,",
+            "token_range": [
+              40,
+              53
+            ],
+            "level": 2,
+            "children": [
+              {
+                "text": " There was about 8 or 9 of us",
+                "token_range": [
+                  40,
+                  50
+                ],
+                "level": 3,
+                "children": [
+                  {
+                    "text": " There was about",
+                    "token_range": [
+                      40,
+                      43
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " There was",
+                        "token_range": [
+                          40,
+                          42
+                        ],
+                        "level": 5,
+                        "children": [
+                          {
+                            "text": " There",
+                            "token_range": [
+                              40,
+                              41
+                            ],
+                            "level": 6,
+                            "children": null
+                          },
+                          {
+                            "text": " was",
+                            "token_range": [
+                              41,
+                              42
+                            ],
+                            "level": 6,
+                            "children": null
+                          }
+                        ]
+                      },
+                      {
+                        "text": " about",
+                        "token_range": [
+                          42,
+                          43
+                        ],
+                        "level": 5,
+                        "children": null
+                      }
+                    ]
+                  },
+                  {
+                    "text": " 8 or 9",
+                    "token_range": [
+                      43,
+                      48
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " 8",
+                        "token_range": [
+                          43,
+                          45
+                        ],
+                        "level": 5,
+                        "children": [
+                          {
+                            "text": " ",
+                            "token_range": [
+                              43,
+                              44
+                            ],
+                            "level": 6,
+                            "children": null
+                          },
+                          {
+                            "text": "8",
+                            "token_range": [
+                              44,
+                              45
+                            ],
+                            "level": 6,
+                            "children": null
+                          }
+                        ]
+                      },
+                      {
+                        "text": " or 9",
+                        "token_range": [
+                          45,
+                          48
+                        ],
+                        "level": 5,
+                        "children": [
+                          {
+                            "text": " or ",
+                            "token_range": [
+                              45,
+                              47
+                            ],
+                            "level": 6,
+                            "children": [
+                              {
+                                "text": " or",
+                                "token_range": [
+                                  45,
+                                  46
+                                ],
+                                "level": 7,
+                                "children": null
+                              },
+                              {
+                                "text": " ",
+                                "token_range": [
+                                  46,
+                                  47
+                                ],
+                                "level": 7,
+                                "children": null
+                              }
+                            ]
+                          },
+                          {
+                            "text": "9",
+                            "token_range": [
+                              47,
+                              48
+                            ],
+                            "level": 6,
+                            "children": null
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": " of us",
+                    "token_range": [
+                      48,
+                      50
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " of",
+                        "token_range": [
+                          48,
+                          49
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": " us",
+                        "token_range": [
+                          49,
+                          50
+                        ],
+                        "level": 5,
+                        "children": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": " you know,",
+                "token_range": [
+                  50,
+                  53
+                ],
+                "level": 3,
+                "children": [
+                  {
+                    "text": " you know",
+                    "token_range": [
+                      50,
+                      52
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " you",
+                        "token_range": [
+                          50,
+                          51
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": " know",
+                        "token_range": [
+                          51,
+                          52
+                        ],
+                        "level": 5,
+                        "children": null
+                      }
+                    ]
+                  },
+                  {
+                    "text": ",",
+                    "token_range": [
+                      52,
+                      53
+                    ],
+                    "level": 4,
+                    "children": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": " going down, coming back.",
+            "token_range": [
+              53,
+              59
+            ],
+            "level": 2,
+            "children": [
+              {
+                "text": " going down",
+                "token_range": [
+                  53,
+                  55
+                ],
+                "level": 3,
+                "children": [
+                  {
+                    "text": " going",
+                    "token_range": [
+                      53,
+                      54
+                    ],
+                    "level": 4,
+                    "children": null
+                  },
+                  {
+                    "text": " down",
+                    "token_range": [
+                      54,
+                      55
+                    ],
+                    "level": 4,
+                    "children": null
+                  }
+                ]
+              },
+              {
+                "text": ", coming back",
+                "token_range": [
+                  55,
+                  58
+                ],
+                "level": 3,
+                "children": [
+                  {
+                    "text": ",",
+                    "token_range": [
+                      55,
+                      56
+                    ],
+                    "level": 4,
+                    "children": null
+                  },
+                  {
+                    "text": " coming back",
+                    "token_range": [
+                      56,
+                      58
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " coming",
+                        "token_range": [
+                          56,
+                          57
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": " back",
+                        "token_range": [
+                          57,
+                          58
+                        ],
+                        "level": 5,
+                        "children": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": ".",
+                "token_range": [
+                  58,
+                  59
+                ],
+                "level": 3,
+                "children": null
+              }
+            ]
+          },
+          {
+            "text": " And going down the third time I caught cramps and I started yelling \"Help!\"",
+            "token_range": [
+              59,
+              76
+            ],
+            "level": 2,
+            "children": [
+              {
+                "text": " And going down the third time",
+                "token_range": [
+                  59,
+                  65
+                ],
+                "level": 3,
+                "children": [
+                  {
+                    "text": " And",
+                    "token_range": [
+                      59,
+                      60
+                    ],
+                    "level": 4,
+                    "children": null
+                  },
+                  {
+                    "text": " going down",
+                    "token_range": [
+                      60,
+                      62
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " going",
+                        "token_range": [
+                          60,
+                          61
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": " down",
+                        "token_range": [
+                          61,
+                          62
+                        ],
+                        "level": 5,
+                        "children": null
+                      }
+                    ]
+                  },
+                  {
+                    "text": " the third time",
+                    "token_range": [
+                      62,
+                      65
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " the",
+                        "token_range": [
+                          62,
+                          63
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": " third time",
+                        "token_range": [
+                          63,
+                          65
+                        ],
+                        "level": 5,
+                        "children": [
+                          {
+                            "text": " third",
+                            "token_range": [
+                              63,
+                              64
+                            ],
+                            "level": 6,
+                            "children": null
+                          },
+                          {
+                            "text": " time",
+                            "token_range": [
+                              64,
+                              65
+                            ],
+                            "level": 6,
+                            "children": null
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": " I caught cramps",
+                "token_range": [
+                  65,
+                  69
+                ],
+                "level": 3,
+                "children": [
+                  {
+                    "text": " I caught",
+                    "token_range": [
+                      65,
+                      67
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " I",
+                        "token_range": [
+                          65,
+                          66
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": " caught",
+                        "token_range": [
+                          66,
+                          67
+                        ],
+                        "level": 5,
+                        "children": null
+                      }
+                    ]
+                  },
+                  {
+                    "text": " cramps",
+                    "token_range": [
+                      67,
+                      69
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " cr",
+                        "token_range": [
+                          67,
+                          68
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": "amps",
+                        "token_range": [
+                          68,
+                          69
+                        ],
+                        "level": 5,
+                        "children": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": " and I started yelling",
+                "token_range": [
+                  69,
+                  73
+                ],
+                "level": 3,
+                "children": [
+                  {
+                    "text": " and",
+                    "token_range": [
+                      69,
+                      70
+                    ],
+                    "level": 4,
+                    "children": null
+                  },
+                  {
+                    "text": " I started yelling",
+                    "token_range": [
+                      70,
+                      73
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " I",
+                        "token_range": [
+                          70,
+                          71
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": " started yelling",
+                        "token_range": [
+                          71,
+                          73
+                        ],
+                        "level": 5,
+                        "children": [
+                          {
+                            "text": " started",
+                            "token_range": [
+                              71,
+                              72
+                            ],
+                            "level": 6,
+                            "children": null
+                          },
+                          {
+                            "text": " yelling",
+                            "token_range": [
+                              72,
+                              73
+                            ],
+                            "level": 6,
+                            "children": null
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": " \"Help!\"",
+                "token_range": [
+                  73,
+                  76
+                ],
+                "level": 3,
+                "children": [
+                  {
+                    "text": " \"",
+                    "token_range": [
+                      73,
+                      74
+                    ],
+                    "level": 4,
+                    "children": null
+                  },
+                  {
+                    "text": "Help!\"",
+                    "token_range": [
+                      74,
+                      76
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": "Help",
+                        "token_range": [
+                          74,
+                          75
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": "!\"",
+                        "token_range": [
+                          75,
+                          76
+                        ],
+                        "level": 5,
+                        "children": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": " but the fellows didn't believe me you know.",
+            "token_range": [
+              76,
+              86
+            ],
+            "level": 2,
+            "children": [
+              {
+                "text": " but the fellows",
+                "token_range": [
+                  76,
+                  79
+                ],
+                "level": 3,
+                "children": [
+                  {
+                    "text": " but",
+                    "token_range": [
+                      76,
+                      77
+                    ],
+                    "level": 4,
+                    "children": null
+                  },
+                  {
+                    "text": " the fellows",
+                    "token_range": [
+                      77,
+                      79
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " the",
+                        "token_range": [
+                          77,
+                          78
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": " fellows",
+                        "token_range": [
+                          78,
+                          79
+                        ],
+                        "level": 5,
+                        "children": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": " didn't believe me",
+                "token_range": [
+                  79,
+                  83
+                ],
+                "level": 3,
+                "children": [
+                  {
+                    "text": " didn't",
+                    "token_range": [
+                      79,
+                      81
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " didn",
+                        "token_range": [
+                          79,
+                          80
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": "'t",
+                        "token_range": [
+                          80,
+                          81
+                        ],
+                        "level": 5,
+                        "children": null
+                      }
+                    ]
+                  },
+                  {
+                    "text": " believe me",
+                    "token_range": [
+                      81,
+                      83
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " believe",
+                        "token_range": [
+                          81,
+                          82
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": " me",
+                        "token_range": [
+                          82,
+                          83
+                        ],
+                        "level": 5,
+                        "children": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": " you know.",
+                "token_range": [
+                  83,
+                  86
+                ],
+                "level": 3,
+                "children": [
+                  {
+                    "text": " you know",
+                    "token_range": [
+                      83,
+                      85
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " you",
+                        "token_range": [
+                          83,
+                          84
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": " know",
+                        "token_range": [
+                          84,
+                          85
+                        ],
+                        "level": 5,
+                        "children": null
+                      }
+                    ]
+                  },
+                  {
+                    "text": ".",
+                    "token_range": [
+                      85,
+                      86
+                    ],
+                    "level": 4,
+                    "children": null
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": " They thought I was just trying to catch up because I was going on or slowing down. So all of them kept going. They leave me. And so I started going down. Scoutmaster was up there. He was watching me. But he didn't pay me no attention either. And for no reason at all there was another guy who had just walked up that minute... He just jumped over and grabbed me.",
+        "token_range": [
+          86,
+          169
+        ],
+        "level": 1,
+        "children": [
+          {
+            "text": " They thought I was just trying to catch up because I was going on or slowing down.",
+            "token_range": [
+              86,
+              104
+            ],
+            "level": 2,
+            "children": [
+              {
+                "text": " They thought I was just trying to catch up",
+                "token_range": [
+                  86,
+                  95
+                ],
+                "level": 3,
+                "children": [
+                  {
+                    "text": " They thought",
+                    "token_range": [
+                      86,
+                      88
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " They",
+                        "token_range": [
+                          86,
+                          87
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": " thought",
+                        "token_range": [
+                          87,
+                          88
+                        ],
+                        "level": 5,
+                        "children": null
+                      }
+                    ]
+                  },
+                  {
+                    "text": " I was just trying",
+                    "token_range": [
+                      88,
+                      92
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " I was",
+                        "token_range": [
+                          88,
+                          90
+                        ],
+                        "level": 5,
+                        "children": [
+                          {
+                            "text": " I",
+                            "token_range": [
+                              88,
+                              89
+                            ],
+                            "level": 6,
+                            "children": null
+                          },
+                          {
+                            "text": " was",
+                            "token_range": [
+                              89,
+                              90
+                            ],
+                            "level": 6,
+                            "children": null
+                          }
+                        ]
+                      },
+                      {
+                        "text": " just trying",
+                        "token_range": [
+                          90,
+                          92
+                        ],
+                        "level": 5,
+                        "children": [
+                          {
+                            "text": " just",
+                            "token_range": [
+                              90,
+                              91
+                            ],
+                            "level": 6,
+                            "children": null
+                          },
+                          {
+                            "text": " trying",
+                            "token_range": [
+                              91,
+                              92
+                            ],
+                            "level": 6,
+                            "children": null
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": " to catch up",
+                    "token_range": [
+                      92,
+                      95
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " to",
+                        "token_range": [
+                          92,
+                          93
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": " catch up",
+                        "token_range": [
+                          93,
+                          95
+                        ],
+                        "level": 5,
+                        "children": [
+                          {
+                            "text": " catch",
+                            "token_range": [
+                              93,
+                              94
+                            ],
+                            "level": 6,
+                            "children": null
+                          },
+                          {
+                            "text": " up",
+                            "token_range": [
+                              94,
+                              95
+                            ],
+                            "level": 6,
+                            "children": null
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": " because I was going on",
+                "token_range": [
+                  95,
+                  100
+                ],
+                "level": 3,
+                "children": [
+                  {
+                    "text": " because",
+                    "token_range": [
+                      95,
+                      96
+                    ],
+                    "level": 4,
+                    "children": null
+                  },
+                  {
+                    "text": " I was going on",
+                    "token_range": [
+                      96,
+                      100
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " I was going",
+                        "token_range": [
+                          96,
+                          99
+                        ],
+                        "level": 5,
+                        "children": [
+                          {
+                            "text": " I",
+                            "token_range": [
+                              96,
+                              97
+                            ],
+                            "level": 6,
+                            "children": null
+                          },
+                          {
+                            "text": " was going",
+                            "token_range": [
+                              97,
+                              99
+                            ],
+                            "level": 6,
+                            "children": [
+                              {
+                                "text": " was",
+                                "token_range": [
+                                  97,
+                                  98
+                                ],
+                                "level": 7,
+                                "children": null
+                              },
+                              {
+                                "text": " going",
+                                "token_range": [
+                                  98,
+                                  99
+                                ],
+                                "level": 7,
+                                "children": null
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "text": " on",
+                        "token_range": [
+                          99,
+                          100
+                        ],
+                        "level": 5,
+                        "children": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": " or slowing down.",
+                "token_range": [
+                  100,
+                  104
+                ],
+                "level": 3,
+                "children": [
+                  {
+                    "text": " or",
+                    "token_range": [
+                      100,
+                      101
+                    ],
+                    "level": 4,
+                    "children": null
+                  },
+                  {
+                    "text": " slowing down",
+                    "token_range": [
+                      101,
+                      103
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " slowing",
+                        "token_range": [
+                          101,
+                          102
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": " down",
+                        "token_range": [
+                          102,
+                          103
+                        ],
+                        "level": 5,
+                        "children": null
+                      }
+                    ]
+                  },
+                  {
+                    "text": ".",
+                    "token_range": [
+                      103,
+                      104
+                    ],
+                    "level": 4,
+                    "children": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": " So all of them kept going. They leave me.",
+            "token_range": [
+              104,
+              115
+            ],
+            "level": 2,
+            "children": [
+              {
+                "text": " So all of them kept going.",
+                "token_range": [
+                  104,
+                  111
+                ],
+                "level": 3,
+                "children": [
+                  {
+                    "text": " So",
+                    "token_range": [
+                      104,
+                      105
+                    ],
+                    "level": 4,
+                    "children": null
+                  },
+                  {
+                    "text": " all of them",
+                    "token_range": [
+                      105,
+                      108
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " all",
+                        "token_range": [
+                          105,
+                          106
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": " of them",
+                        "token_range": [
+                          106,
+                          108
+                        ],
+                        "level": 5,
+                        "children": [
+                          {
+                            "text": " of",
+                            "token_range": [
+                              106,
+                              107
+                            ],
+                            "level": 6,
+                            "children": null
+                          },
+                          {
+                            "text": " them",
+                            "token_range": [
+                              107,
+                              108
+                            ],
+                            "level": 6,
+                            "children": null
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": " kept going.",
+                    "token_range": [
+                      108,
+                      111
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " kept going",
+                        "token_range": [
+                          108,
+                          110
+                        ],
+                        "level": 5,
+                        "children": [
+                          {
+                            "text": " kept",
+                            "token_range": [
+                              108,
+                              109
+                            ],
+                            "level": 6,
+                            "children": null
+                          },
+                          {
+                            "text": " going",
+                            "token_range": [
+                              109,
+                              110
+                            ],
+                            "level": 6,
+                            "children": null
+                          }
+                        ]
+                      },
+                      {
+                        "text": ".",
+                        "token_range": [
+                          110,
+                          111
+                        ],
+                        "level": 5,
+                        "children": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": " They leave me.",
+                "token_range": [
+                  111,
+                  115
+                ],
+                "level": 3,
+                "children": [
+                  {
+                    "text": " They leave me",
+                    "token_range": [
+                      111,
+                      114
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " They leave",
+                        "token_range": [
+                          111,
+                          113
+                        ],
+                        "level": 5,
+                        "children": [
+                          {
+                            "text": " They",
+                            "token_range": [
+                              111,
+                              112
+                            ],
+                            "level": 6,
+                            "children": null
+                          },
+                          {
+                            "text": " leave",
+                            "token_range": [
+                              112,
+                              113
+                            ],
+                            "level": 6,
+                            "children": null
+                          }
+                        ]
+                      },
+                      {
+                        "text": " me",
+                        "token_range": [
+                          113,
+                          114
+                        ],
+                        "level": 5,
+                        "children": null
+                      }
+                    ]
+                  },
+                  {
+                    "text": ".",
+                    "token_range": [
+                      114,
+                      115
+                    ],
+                    "level": 4,
+                    "children": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": " And so I started going down. Scoutmaster was up there. He was watching me.",
+            "token_range": [
+              115,
+              133
+            ],
+            "level": 2,
+            "children": [
+              {
+                "text": " And so I started going down.",
+                "token_range": [
+                  115,
+                  122
+                ],
+                "level": 3,
+                "children": [
+                  {
+                    "text": " And so",
+                    "token_range": [
+                      115,
+                      117
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " And",
+                        "token_range": [
+                          115,
+                          116
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": " so",
+                        "token_range": [
+                          116,
+                          117
+                        ],
+                        "level": 5,
+                        "children": null
+                      }
+                    ]
+                  },
+                  {
+                    "text": " I started going down.",
+                    "token_range": [
+                      117,
+                      122
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " I started going down",
+                        "token_range": [
+                          117,
+                          121
+                        ],
+                        "level": 5,
+                        "children": [
+                          {
+                            "text": " I",
+                            "token_range": [
+                              117,
+                              118
+                            ],
+                            "level": 6,
+                            "children": null
+                          },
+                          {
+                            "text": " started going down",
+                            "token_range": [
+                              118,
+                              121
+                            ],
+                            "level": 6,
+                            "children": [
+                              {
+                                "text": " started",
+                                "token_range": [
+                                  118,
+                                  119
+                                ],
+                                "level": 7,
+                                "children": null
+                              },
+                              {
+                                "text": " going down",
+                                "token_range": [
+                                  119,
+                                  121
+                                ],
+                                "level": 7,
+                                "children": [
+                                  {
+                                    "text": " going",
+                                    "token_range": [
+                                      119,
+                                      120
+                                    ],
+                                    "level": 8,
+                                    "children": null
+                                  },
+                                  {
+                                    "text": " down",
+                                    "token_range": [
+                                      120,
+                                      121
+                                    ],
+                                    "level": 8,
+                                    "children": null
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "text": ".",
+                        "token_range": [
+                          121,
+                          122
+                        ],
+                        "level": 5,
+                        "children": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": " Scoutmaster was up there.",
+                "token_range": [
+                  122,
+                  128
+                ],
+                "level": 3,
+                "children": [
+                  {
+                    "text": " Scoutmaster",
+                    "token_range": [
+                      122,
+                      124
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " Scout",
+                        "token_range": [
+                          122,
+                          123
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": "master",
+                        "token_range": [
+                          123,
+                          124
+                        ],
+                        "level": 5,
+                        "children": null
+                      }
+                    ]
+                  },
+                  {
+                    "text": " was up there",
+                    "token_range": [
+                      124,
+                      127
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " was",
+                        "token_range": [
+                          124,
+                          125
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": " up there",
+                        "token_range": [
+                          125,
+                          127
+                        ],
+                        "level": 5,
+                        "children": [
+                          {
+                            "text": " up",
+                            "token_range": [
+                              125,
+                              126
+                            ],
+                            "level": 6,
+                            "children": null
+                          },
+                          {
+                            "text": " there",
+                            "token_range": [
+                              126,
+                              127
+                            ],
+                            "level": 6,
+                            "children": null
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": ".",
+                    "token_range": [
+                      127,
+                      128
+                    ],
+                    "level": 4,
+                    "children": null
+                  }
+                ]
+              },
+              {
+                "text": " He was watching me.",
+                "token_range": [
+                  128,
+                  133
+                ],
+                "level": 3,
+                "children": [
+                  {
+                    "text": " He was watching",
+                    "token_range": [
+                      128,
+                      131
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " He",
+                        "token_range": [
+                          128,
+                          129
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": " was watching",
+                        "token_range": [
+                          129,
+                          131
+                        ],
+                        "level": 5,
+                        "children": [
+                          {
+                            "text": " was",
+                            "token_range": [
+                              129,
+                              130
+                            ],
+                            "level": 6,
+                            "children": null
+                          },
+                          {
+                            "text": " watching",
+                            "token_range": [
+                              130,
+                              131
+                            ],
+                            "level": 6,
+                            "children": null
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": " me.",
+                    "token_range": [
+                      131,
+                      133
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " me",
+                        "token_range": [
+                          131,
+                          132
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": ".",
+                        "token_range": [
+                          132,
+                          133
+                        ],
+                        "level": 5,
+                        "children": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": " But he didn't pay me no attention either. And for no reason at all there was another guy who had just walked up that minute... He just jumped over and grabbed me.",
+            "token_range": [
+              133,
+              169
+            ],
+            "level": 2,
+            "children": [
+              {
+                "text": " But he didn't pay me no attention either.",
+                "token_range": [
+                  133,
+                  143
+                ],
+                "level": 3,
+                "children": [
+                  {
+                    "text": " But he didn't pay me",
+                    "token_range": [
+                      133,
+                      139
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " But",
+                        "token_range": [
+                          133,
+                          134
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": " he didn't",
+                        "token_range": [
+                          134,
+                          137
+                        ],
+                        "level": 5,
+                        "children": [
+                          {
+                            "text": " he",
+                            "token_range": [
+                              134,
+                              135
+                            ],
+                            "level": 6,
+                            "children": null
+                          },
+                          {
+                            "text": " didn't",
+                            "token_range": [
+                              135,
+                              137
+                            ],
+                            "level": 6,
+                            "children": [
+                              {
+                                "text": " didn",
+                                "token_range": [
+                                  135,
+                                  136
+                                ],
+                                "level": 7,
+                                "children": null
+                              },
+                              {
+                                "text": "'t",
+                                "token_range": [
+                                  136,
+                                  137
+                                ],
+                                "level": 7,
+                                "children": null
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "text": " pay me",
+                        "token_range": [
+                          137,
+                          139
+                        ],
+                        "level": 5,
+                        "children": [
+                          {
+                            "text": " pay",
+                            "token_range": [
+                              137,
+                              138
+                            ],
+                            "level": 6,
+                            "children": null
+                          },
+                          {
+                            "text": " me",
+                            "token_range": [
+                              138,
+                              139
+                            ],
+                            "level": 6,
+                            "children": null
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": " no attention",
+                    "token_range": [
+                      139,
+                      141
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " no",
+                        "token_range": [
+                          139,
+                          140
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": " attention",
+                        "token_range": [
+                          140,
+                          141
+                        ],
+                        "level": 5,
+                        "children": null
+                      }
+                    ]
+                  },
+                  {
+                    "text": " either.",
+                    "token_range": [
+                      141,
+                      143
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " either",
+                        "token_range": [
+                          141,
+                          142
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": ".",
+                        "token_range": [
+                          142,
+                          143
+                        ],
+                        "level": 5,
+                        "children": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": " And for no reason at all there was another guy who had just walked up that minute...",
+                "token_range": [
+                  143,
+                  161
+                ],
+                "level": 3,
+                "children": [
+                  {
+                    "text": " And for no reason at all",
+                    "token_range": [
+                      143,
+                      149
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " And",
+                        "token_range": [
+                          143,
+                          144
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": " for no",
+                        "token_range": [
+                          144,
+                          146
+                        ],
+                        "level": 5,
+                        "children": [
+                          {
+                            "text": " for",
+                            "token_range": [
+                              144,
+                              145
+                            ],
+                            "level": 6,
+                            "children": null
+                          },
+                          {
+                            "text": " no",
+                            "token_range": [
+                              145,
+                              146
+                            ],
+                            "level": 6,
+                            "children": null
+                          }
+                        ]
+                      },
+                      {
+                        "text": " reason at all",
+                        "token_range": [
+                          146,
+                          149
+                        ],
+                        "level": 5,
+                        "children": [
+                          {
+                            "text": " reason",
+                            "token_range": [
+                              146,
+                              147
+                            ],
+                            "level": 6,
+                            "children": null
+                          },
+                          {
+                            "text": " at all",
+                            "token_range": [
+                              147,
+                              149
+                            ],
+                            "level": 6,
+                            "children": [
+                              {
+                                "text": " at",
+                                "token_range": [
+                                  147,
+                                  148
+                                ],
+                                "level": 7,
+                                "children": null
+                              },
+                              {
+                                "text": " all",
+                                "token_range": [
+                                  148,
+                                  149
+                                ],
+                                "level": 7,
+                                "children": null
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": " there was another guy",
+                    "token_range": [
+                      149,
+                      153
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " there was another",
+                        "token_range": [
+                          149,
+                          152
+                        ],
+                        "level": 5,
+                        "children": [
+                          {
+                            "text": " there",
+                            "token_range": [
+                              149,
+                              150
+                            ],
+                            "level": 6,
+                            "children": null
+                          },
+                          {
+                            "text": " was another",
+                            "token_range": [
+                              150,
+                              152
+                            ],
+                            "level": 6,
+                            "children": [
+                              {
+                                "text": " was",
+                                "token_range": [
+                                  150,
+                                  151
+                                ],
+                                "level": 7,
+                                "children": null
+                              },
+                              {
+                                "text": " another",
+                                "token_range": [
+                                  151,
+                                  152
+                                ],
+                                "level": 7,
+                                "children": null
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "text": " guy",
+                        "token_range": [
+                          152,
+                          153
+                        ],
+                        "level": 5,
+                        "children": null
+                      }
+                    ]
+                  },
+                  {
+                    "text": " who had just walked up",
+                    "token_range": [
+                      153,
+                      158
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " who had just",
+                        "token_range": [
+                          153,
+                          156
+                        ],
+                        "level": 5,
+                        "children": [
+                          {
+                            "text": " who",
+                            "token_range": [
+                              153,
+                              154
+                            ],
+                            "level": 6,
+                            "children": null
+                          },
+                          {
+                            "text": " had just",
+                            "token_range": [
+                              154,
+                              156
+                            ],
+                            "level": 6,
+                            "children": [
+                              {
+                                "text": " had",
+                                "token_range": [
+                                  154,
+                                  155
+                                ],
+                                "level": 7,
+                                "children": null
+                              },
+                              {
+                                "text": " just",
+                                "token_range": [
+                                  155,
+                                  156
+                                ],
+                                "level": 7,
+                                "children": null
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "text": " walked up",
+                        "token_range": [
+                          156,
+                          158
+                        ],
+                        "level": 5,
+                        "children": [
+                          {
+                            "text": " walked",
+                            "token_range": [
+                              156,
+                              157
+                            ],
+                            "level": 6,
+                            "children": null
+                          },
+                          {
+                            "text": " up",
+                            "token_range": [
+                              157,
+                              158
+                            ],
+                            "level": 6,
+                            "children": null
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": " that minute...",
+                    "token_range": [
+                      158,
+                      161
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " that minute",
+                        "token_range": [
+                          158,
+                          160
+                        ],
+                        "level": 5,
+                        "children": [
+                          {
+                            "text": " that",
+                            "token_range": [
+                              158,
+                              159
+                            ],
+                            "level": 6,
+                            "children": null
+                          },
+                          {
+                            "text": " minute",
+                            "token_range": [
+                              159,
+                              160
+                            ],
+                            "level": 6,
+                            "children": null
+                          }
+                        ]
+                      },
+                      {
+                        "text": "...",
+                        "token_range": [
+                          160,
+                          161
+                        ],
+                        "level": 5,
+                        "children": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": " He just jumped over and grabbed me.",
+                "token_range": [
+                  161,
+                  169
+                ],
+                "level": 3,
+                "children": [
+                  {
+                    "text": " He just jumped over",
+                    "token_range": [
+                      161,
+                      165
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " He just",
+                        "token_range": [
+                          161,
+                          163
+                        ],
+                        "level": 5,
+                        "children": [
+                          {
+                            "text": " He",
+                            "token_range": [
+                              161,
+                              162
+                            ],
+                            "level": 6,
+                            "children": null
+                          },
+                          {
+                            "text": " just",
+                            "token_range": [
+                              162,
+                              163
+                            ],
+                            "level": 6,
+                            "children": null
+                          }
+                        ]
+                      },
+                      {
+                        "text": " jumped over",
+                        "token_range": [
+                          163,
+                          165
+                        ],
+                        "level": 5,
+                        "children": [
+                          {
+                            "text": " jumped",
+                            "token_range": [
+                              163,
+                              164
+                            ],
+                            "level": 6,
+                            "children": null
+                          },
+                          {
+                            "text": " over",
+                            "token_range": [
+                              164,
+                              165
+                            ],
+                            "level": 6,
+                            "children": null
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": " and grabbed me.",
+                    "token_range": [
+                      165,
+                      169
+                    ],
+                    "level": 4,
+                    "children": [
+                      {
+                        "text": " and",
+                        "token_range": [
+                          165,
+                          166
+                        ],
+                        "level": 5,
+                        "children": null
+                      },
+                      {
+                        "text": " grabbed me",
+                        "token_range": [
+                          166,
+                          168
+                        ],
+                        "level": 5,
+                        "children": [
+                          {
+                            "text": " grabbed",
+                            "token_range": [
+                              166,
+                              167
+                            ],
+                            "level": 6,
+                            "children": null
+                          },
+                          {
+                            "text": " me",
+                            "token_range": [
+                              167,
+                              168
+                            ],
+                            "level": 6,
+                            "children": null
+                          }
+                        ]
+                      },
+                      {
+                        "text": ".",
+                        "token_range": [
+                          168,
+                          169
+                        ],
+                        "level": 5,
+                        "children": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "fallback_lengths": [
+    3,
+    3,
+    2,
+    3,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    3,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    3,
+    2,
+    3,
+    2,
+    2,
+    2,
+    2,
+    3,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    3,
+    3,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "fallback_segments": [],
+  "fallback_texts": [],
+  "span_tree": {
+    "start": 0,
+    "end": 169,
+    "children": [
+      {
+        "start": 0,
+        "end": 11,
+        "children": [
+          {
+            "start": 0,
+            "end": 4,
+            "children": [
+              {
+                "start": 0,
+                "end": 1,
+                "children": []
+              },
+              {
+                "start": 1,
+                "end": 4,
+                "children": [
+                  {
+                    "start": 1,
+                    "end": 2,
+                    "children": []
+                  },
+                  {
+                    "start": 2,
+                    "end": 4,
+                    "children": [
+                      {
+                        "start": 2,
+                        "end": 3,
+                        "children": []
+                      },
+                      {
+                        "start": 3,
+                        "end": 4,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "start": 4,
+            "end": 7,
+            "children": [
+              {
+                "start": 4,
+                "end": 5,
+                "children": []
+              },
+              {
+                "start": 5,
+                "end": 7,
+                "children": [
+                  {
+                    "start": 5,
+                    "end": 6,
+                    "children": []
+                  },
+                  {
+                    "start": 6,
+                    "end": 7,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "start": 7,
+            "end": 11,
+            "children": [
+              {
+                "start": 7,
+                "end": 10,
+                "children": [
+                  {
+                    "start": 7,
+                    "end": 8,
+                    "children": []
+                  },
+                  {
+                    "start": 8,
+                    "end": 10,
+                    "children": [
+                      {
+                        "start": 8,
+                        "end": 9,
+                        "children": []
+                      },
+                      {
+                        "start": 9,
+                        "end": 10,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "start": 10,
+                "end": 11,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "start": 11,
+        "end": 40,
+        "children": [
+          {
+            "start": 11,
+            "end": 21,
+            "children": [
+              {
+                "start": 11,
+                "end": 15,
+                "children": [
+                  {
+                    "start": 11,
+                    "end": 12,
+                    "children": []
+                  },
+                  {
+                    "start": 12,
+                    "end": 15,
+                    "children": [
+                      {
+                        "start": 12,
+                        "end": 13,
+                        "children": []
+                      },
+                      {
+                        "start": 13,
+                        "end": 15,
+                        "children": [
+                          {
+                            "start": 13,
+                            "end": 14,
+                            "children": []
+                          },
+                          {
+                            "start": 14,
+                            "end": 15,
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "start": 15,
+                "end": 21,
+                "children": [
+                  {
+                    "start": 15,
+                    "end": 19,
+                    "children": [
+                      {
+                        "start": 15,
+                        "end": 16,
+                        "children": []
+                      },
+                      {
+                        "start": 16,
+                        "end": 19,
+                        "children": [
+                          {
+                            "start": 16,
+                            "end": 17,
+                            "children": []
+                          },
+                          {
+                            "start": 17,
+                            "end": 19,
+                            "children": [
+                              {
+                                "start": 17,
+                                "end": 18,
+                                "children": []
+                              },
+                              {
+                                "start": 18,
+                                "end": 19,
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "start": 19,
+                    "end": 21,
+                    "children": [
+                      {
+                        "start": 19,
+                        "end": 20,
+                        "children": []
+                      },
+                      {
+                        "start": 20,
+                        "end": 21,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "start": 21,
+            "end": 29,
+            "children": [
+              {
+                "start": 21,
+                "end": 22,
+                "children": []
+              },
+              {
+                "start": 22,
+                "end": 25,
+                "children": [
+                  {
+                    "start": 22,
+                    "end": 23,
+                    "children": []
+                  },
+                  {
+                    "start": 23,
+                    "end": 25,
+                    "children": [
+                      {
+                        "start": 23,
+                        "end": 24,
+                        "children": []
+                      },
+                      {
+                        "start": 24,
+                        "end": 25,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "start": 25,
+                "end": 29,
+                "children": [
+                  {
+                    "start": 25,
+                    "end": 27,
+                    "children": [
+                      {
+                        "start": 25,
+                        "end": 26,
+                        "children": []
+                      },
+                      {
+                        "start": 26,
+                        "end": 27,
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "start": 27,
+                    "end": 29,
+                    "children": [
+                      {
+                        "start": 27,
+                        "end": 28,
+                        "children": []
+                      },
+                      {
+                        "start": 28,
+                        "end": 29,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "start": 29,
+            "end": 40,
+            "children": [
+              {
+                "start": 29,
+                "end": 31,
+                "children": [
+                  {
+                    "start": 29,
+                    "end": 30,
+                    "children": []
+                  },
+                  {
+                    "start": 30,
+                    "end": 31,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "start": 31,
+                "end": 34,
+                "children": [
+                  {
+                    "start": 31,
+                    "end": 32,
+                    "children": []
+                  },
+                  {
+                    "start": 32,
+                    "end": 34,
+                    "children": [
+                      {
+                        "start": 32,
+                        "end": 33,
+                        "children": []
+                      },
+                      {
+                        "start": 33,
+                        "end": 34,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "start": 34,
+                "end": 40,
+                "children": [
+                  {
+                    "start": 34,
+                    "end": 39,
+                    "children": [
+                      {
+                        "start": 34,
+                        "end": 38,
+                        "children": [
+                          {
+                            "start": 34,
+                            "end": 35,
+                            "children": []
+                          },
+                          {
+                            "start": 35,
+                            "end": 38,
+                            "children": [
+                              {
+                                "start": 35,
+                                "end": 36,
+                                "children": []
+                              },
+                              {
+                                "start": 36,
+                                "end": 38,
+                                "children": [
+                                  {
+                                    "start": 36,
+                                    "end": 37,
+                                    "children": []
+                                  },
+                                  {
+                                    "start": 37,
+                                    "end": 38,
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "start": 38,
+                        "end": 39,
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "start": 39,
+                    "end": 40,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "start": 40,
+        "end": 86,
+        "children": [
+          {
+            "start": 40,
+            "end": 53,
+            "children": [
+              {
+                "start": 40,
+                "end": 50,
+                "children": [
+                  {
+                    "start": 40,
+                    "end": 43,
+                    "children": [
+                      {
+                        "start": 40,
+                        "end": 42,
+                        "children": [
+                          {
+                            "start": 40,
+                            "end": 41,
+                            "children": []
+                          },
+                          {
+                            "start": 41,
+                            "end": 42,
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "start": 42,
+                        "end": 43,
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "start": 43,
+                    "end": 48,
+                    "children": [
+                      {
+                        "start": 43,
+                        "end": 45,
+                        "children": [
+                          {
+                            "start": 43,
+                            "end": 44,
+                            "children": []
+                          },
+                          {
+                            "start": 44,
+                            "end": 45,
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "start": 45,
+                        "end": 48,
+                        "children": [
+                          {
+                            "start": 45,
+                            "end": 47,
+                            "children": [
+                              {
+                                "start": 45,
+                                "end": 46,
+                                "children": []
+                              },
+                              {
+                                "start": 46,
+                                "end": 47,
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "start": 47,
+                            "end": 48,
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "start": 48,
+                    "end": 50,
+                    "children": [
+                      {
+                        "start": 48,
+                        "end": 49,
+                        "children": []
+                      },
+                      {
+                        "start": 49,
+                        "end": 50,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "start": 50,
+                "end": 53,
+                "children": [
+                  {
+                    "start": 50,
+                    "end": 52,
+                    "children": [
+                      {
+                        "start": 50,
+                        "end": 51,
+                        "children": []
+                      },
+                      {
+                        "start": 51,
+                        "end": 52,
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "start": 52,
+                    "end": 53,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "start": 53,
+            "end": 59,
+            "children": [
+              {
+                "start": 53,
+                "end": 55,
+                "children": [
+                  {
+                    "start": 53,
+                    "end": 54,
+                    "children": []
+                  },
+                  {
+                    "start": 54,
+                    "end": 55,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "start": 55,
+                "end": 58,
+                "children": [
+                  {
+                    "start": 55,
+                    "end": 56,
+                    "children": []
+                  },
+                  {
+                    "start": 56,
+                    "end": 58,
+                    "children": [
+                      {
+                        "start": 56,
+                        "end": 57,
+                        "children": []
+                      },
+                      {
+                        "start": 57,
+                        "end": 58,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "start": 58,
+                "end": 59,
+                "children": []
+              }
+            ]
+          },
+          {
+            "start": 59,
+            "end": 76,
+            "children": [
+              {
+                "start": 59,
+                "end": 65,
+                "children": [
+                  {
+                    "start": 59,
+                    "end": 60,
+                    "children": []
+                  },
+                  {
+                    "start": 60,
+                    "end": 62,
+                    "children": [
+                      {
+                        "start": 60,
+                        "end": 61,
+                        "children": []
+                      },
+                      {
+                        "start": 61,
+                        "end": 62,
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "start": 62,
+                    "end": 65,
+                    "children": [
+                      {
+                        "start": 62,
+                        "end": 63,
+                        "children": []
+                      },
+                      {
+                        "start": 63,
+                        "end": 65,
+                        "children": [
+                          {
+                            "start": 63,
+                            "end": 64,
+                            "children": []
+                          },
+                          {
+                            "start": 64,
+                            "end": 65,
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "start": 65,
+                "end": 69,
+                "children": [
+                  {
+                    "start": 65,
+                    "end": 67,
+                    "children": [
+                      {
+                        "start": 65,
+                        "end": 66,
+                        "children": []
+                      },
+                      {
+                        "start": 66,
+                        "end": 67,
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "start": 67,
+                    "end": 69,
+                    "children": [
+                      {
+                        "start": 67,
+                        "end": 68,
+                        "children": []
+                      },
+                      {
+                        "start": 68,
+                        "end": 69,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "start": 69,
+                "end": 73,
+                "children": [
+                  {
+                    "start": 69,
+                    "end": 70,
+                    "children": []
+                  },
+                  {
+                    "start": 70,
+                    "end": 73,
+                    "children": [
+                      {
+                        "start": 70,
+                        "end": 71,
+                        "children": []
+                      },
+                      {
+                        "start": 71,
+                        "end": 73,
+                        "children": [
+                          {
+                            "start": 71,
+                            "end": 72,
+                            "children": []
+                          },
+                          {
+                            "start": 72,
+                            "end": 73,
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "start": 73,
+                "end": 76,
+                "children": [
+                  {
+                    "start": 73,
+                    "end": 74,
+                    "children": []
+                  },
+                  {
+                    "start": 74,
+                    "end": 76,
+                    "children": [
+                      {
+                        "start": 74,
+                        "end": 75,
+                        "children": []
+                      },
+                      {
+                        "start": 75,
+                        "end": 76,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "start": 76,
+            "end": 86,
+            "children": [
+              {
+                "start": 76,
+                "end": 79,
+                "children": [
+                  {
+                    "start": 76,
+                    "end": 77,
+                    "children": []
+                  },
+                  {
+                    "start": 77,
+                    "end": 79,
+                    "children": [
+                      {
+                        "start": 77,
+                        "end": 78,
+                        "children": []
+                      },
+                      {
+                        "start": 78,
+                        "end": 79,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "start": 79,
+                "end": 83,
+                "children": [
+                  {
+                    "start": 79,
+                    "end": 81,
+                    "children": [
+                      {
+                        "start": 79,
+                        "end": 80,
+                        "children": []
+                      },
+                      {
+                        "start": 80,
+                        "end": 81,
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "start": 81,
+                    "end": 83,
+                    "children": [
+                      {
+                        "start": 81,
+                        "end": 82,
+                        "children": []
+                      },
+                      {
+                        "start": 82,
+                        "end": 83,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "start": 83,
+                "end": 86,
+                "children": [
+                  {
+                    "start": 83,
+                    "end": 85,
+                    "children": [
+                      {
+                        "start": 83,
+                        "end": 84,
+                        "children": []
+                      },
+                      {
+                        "start": 84,
+                        "end": 85,
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "start": 85,
+                    "end": 86,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "start": 86,
+        "end": 169,
+        "children": [
+          {
+            "start": 86,
+            "end": 104,
+            "children": [
+              {
+                "start": 86,
+                "end": 95,
+                "children": [
+                  {
+                    "start": 86,
+                    "end": 88,
+                    "children": [
+                      {
+                        "start": 86,
+                        "end": 87,
+                        "children": []
+                      },
+                      {
+                        "start": 87,
+                        "end": 88,
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "start": 88,
+                    "end": 92,
+                    "children": [
+                      {
+                        "start": 88,
+                        "end": 90,
+                        "children": [
+                          {
+                            "start": 88,
+                            "end": 89,
+                            "children": []
+                          },
+                          {
+                            "start": 89,
+                            "end": 90,
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "start": 90,
+                        "end": 92,
+                        "children": [
+                          {
+                            "start": 90,
+                            "end": 91,
+                            "children": []
+                          },
+                          {
+                            "start": 91,
+                            "end": 92,
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "start": 92,
+                    "end": 95,
+                    "children": [
+                      {
+                        "start": 92,
+                        "end": 93,
+                        "children": []
+                      },
+                      {
+                        "start": 93,
+                        "end": 95,
+                        "children": [
+                          {
+                            "start": 93,
+                            "end": 94,
+                            "children": []
+                          },
+                          {
+                            "start": 94,
+                            "end": 95,
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "start": 95,
+                "end": 100,
+                "children": [
+                  {
+                    "start": 95,
+                    "end": 96,
+                    "children": []
+                  },
+                  {
+                    "start": 96,
+                    "end": 100,
+                    "children": [
+                      {
+                        "start": 96,
+                        "end": 99,
+                        "children": [
+                          {
+                            "start": 96,
+                            "end": 97,
+                            "children": []
+                          },
+                          {
+                            "start": 97,
+                            "end": 99,
+                            "children": [
+                              {
+                                "start": 97,
+                                "end": 98,
+                                "children": []
+                              },
+                              {
+                                "start": 98,
+                                "end": 99,
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "start": 99,
+                        "end": 100,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "start": 100,
+                "end": 104,
+                "children": [
+                  {
+                    "start": 100,
+                    "end": 101,
+                    "children": []
+                  },
+                  {
+                    "start": 101,
+                    "end": 103,
+                    "children": [
+                      {
+                        "start": 101,
+                        "end": 102,
+                        "children": []
+                      },
+                      {
+                        "start": 102,
+                        "end": 103,
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "start": 103,
+                    "end": 104,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "start": 104,
+            "end": 115,
+            "children": [
+              {
+                "start": 104,
+                "end": 111,
+                "children": [
+                  {
+                    "start": 104,
+                    "end": 105,
+                    "children": []
+                  },
+                  {
+                    "start": 105,
+                    "end": 108,
+                    "children": [
+                      {
+                        "start": 105,
+                        "end": 106,
+                        "children": []
+                      },
+                      {
+                        "start": 106,
+                        "end": 108,
+                        "children": [
+                          {
+                            "start": 106,
+                            "end": 107,
+                            "children": []
+                          },
+                          {
+                            "start": 107,
+                            "end": 108,
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "start": 108,
+                    "end": 111,
+                    "children": [
+                      {
+                        "start": 108,
+                        "end": 110,
+                        "children": [
+                          {
+                            "start": 108,
+                            "end": 109,
+                            "children": []
+                          },
+                          {
+                            "start": 109,
+                            "end": 110,
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "start": 110,
+                        "end": 111,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "start": 111,
+                "end": 115,
+                "children": [
+                  {
+                    "start": 111,
+                    "end": 114,
+                    "children": [
+                      {
+                        "start": 111,
+                        "end": 113,
+                        "children": [
+                          {
+                            "start": 111,
+                            "end": 112,
+                            "children": []
+                          },
+                          {
+                            "start": 112,
+                            "end": 113,
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "start": 113,
+                        "end": 114,
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "start": 114,
+                    "end": 115,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "start": 115,
+            "end": 133,
+            "children": [
+              {
+                "start": 115,
+                "end": 122,
+                "children": [
+                  {
+                    "start": 115,
+                    "end": 117,
+                    "children": [
+                      {
+                        "start": 115,
+                        "end": 116,
+                        "children": []
+                      },
+                      {
+                        "start": 116,
+                        "end": 117,
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "start": 117,
+                    "end": 122,
+                    "children": [
+                      {
+                        "start": 117,
+                        "end": 121,
+                        "children": [
+                          {
+                            "start": 117,
+                            "end": 118,
+                            "children": []
+                          },
+                          {
+                            "start": 118,
+                            "end": 121,
+                            "children": [
+                              {
+                                "start": 118,
+                                "end": 119,
+                                "children": []
+                              },
+                              {
+                                "start": 119,
+                                "end": 121,
+                                "children": [
+                                  {
+                                    "start": 119,
+                                    "end": 120,
+                                    "children": []
+                                  },
+                                  {
+                                    "start": 120,
+                                    "end": 121,
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "start": 121,
+                        "end": 122,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "start": 122,
+                "end": 128,
+                "children": [
+                  {
+                    "start": 122,
+                    "end": 124,
+                    "children": [
+                      {
+                        "start": 122,
+                        "end": 123,
+                        "children": []
+                      },
+                      {
+                        "start": 123,
+                        "end": 124,
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "start": 124,
+                    "end": 127,
+                    "children": [
+                      {
+                        "start": 124,
+                        "end": 125,
+                        "children": []
+                      },
+                      {
+                        "start": 125,
+                        "end": 127,
+                        "children": [
+                          {
+                            "start": 125,
+                            "end": 126,
+                            "children": []
+                          },
+                          {
+                            "start": 126,
+                            "end": 127,
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "start": 127,
+                    "end": 128,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "start": 128,
+                "end": 133,
+                "children": [
+                  {
+                    "start": 128,
+                    "end": 131,
+                    "children": [
+                      {
+                        "start": 128,
+                        "end": 129,
+                        "children": []
+                      },
+                      {
+                        "start": 129,
+                        "end": 131,
+                        "children": [
+                          {
+                            "start": 129,
+                            "end": 130,
+                            "children": []
+                          },
+                          {
+                            "start": 130,
+                            "end": 131,
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "start": 131,
+                    "end": 133,
+                    "children": [
+                      {
+                        "start": 131,
+                        "end": 132,
+                        "children": []
+                      },
+                      {
+                        "start": 132,
+                        "end": 133,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "start": 133,
+            "end": 169,
+            "children": [
+              {
+                "start": 133,
+                "end": 143,
+                "children": [
+                  {
+                    "start": 133,
+                    "end": 139,
+                    "children": [
+                      {
+                        "start": 133,
+                        "end": 134,
+                        "children": []
+                      },
+                      {
+                        "start": 134,
+                        "end": 137,
+                        "children": [
+                          {
+                            "start": 134,
+                            "end": 135,
+                            "children": []
+                          },
+                          {
+                            "start": 135,
+                            "end": 137,
+                            "children": [
+                              {
+                                "start": 135,
+                                "end": 136,
+                                "children": []
+                              },
+                              {
+                                "start": 136,
+                                "end": 137,
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "start": 137,
+                        "end": 139,
+                        "children": [
+                          {
+                            "start": 137,
+                            "end": 138,
+                            "children": []
+                          },
+                          {
+                            "start": 138,
+                            "end": 139,
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "start": 139,
+                    "end": 141,
+                    "children": [
+                      {
+                        "start": 139,
+                        "end": 140,
+                        "children": []
+                      },
+                      {
+                        "start": 140,
+                        "end": 141,
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "start": 141,
+                    "end": 143,
+                    "children": [
+                      {
+                        "start": 141,
+                        "end": 142,
+                        "children": []
+                      },
+                      {
+                        "start": 142,
+                        "end": 143,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "start": 143,
+                "end": 161,
+                "children": [
+                  {
+                    "start": 143,
+                    "end": 149,
+                    "children": [
+                      {
+                        "start": 143,
+                        "end": 144,
+                        "children": []
+                      },
+                      {
+                        "start": 144,
+                        "end": 146,
+                        "children": [
+                          {
+                            "start": 144,
+                            "end": 145,
+                            "children": []
+                          },
+                          {
+                            "start": 145,
+                            "end": 146,
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "start": 146,
+                        "end": 149,
+                        "children": [
+                          {
+                            "start": 146,
+                            "end": 147,
+                            "children": []
+                          },
+                          {
+                            "start": 147,
+                            "end": 149,
+                            "children": [
+                              {
+                                "start": 147,
+                                "end": 148,
+                                "children": []
+                              },
+                              {
+                                "start": 148,
+                                "end": 149,
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "start": 149,
+                    "end": 153,
+                    "children": [
+                      {
+                        "start": 149,
+                        "end": 152,
+                        "children": [
+                          {
+                            "start": 149,
+                            "end": 150,
+                            "children": []
+                          },
+                          {
+                            "start": 150,
+                            "end": 152,
+                            "children": [
+                              {
+                                "start": 150,
+                                "end": 151,
+                                "children": []
+                              },
+                              {
+                                "start": 151,
+                                "end": 152,
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "start": 152,
+                        "end": 153,
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "start": 153,
+                    "end": 158,
+                    "children": [
+                      {
+                        "start": 153,
+                        "end": 156,
+                        "children": [
+                          {
+                            "start": 153,
+                            "end": 154,
+                            "children": []
+                          },
+                          {
+                            "start": 154,
+                            "end": 156,
+                            "children": [
+                              {
+                                "start": 154,
+                                "end": 155,
+                                "children": []
+                              },
+                              {
+                                "start": 155,
+                                "end": 156,
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "start": 156,
+                        "end": 158,
+                        "children": [
+                          {
+                            "start": 156,
+                            "end": 157,
+                            "children": []
+                          },
+                          {
+                            "start": 157,
+                            "end": 158,
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "start": 158,
+                    "end": 161,
+                    "children": [
+                      {
+                        "start": 158,
+                        "end": 160,
+                        "children": [
+                          {
+                            "start": 158,
+                            "end": 159,
+                            "children": []
+                          },
+                          {
+                            "start": 159,
+                            "end": 160,
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "start": 160,
+                        "end": 161,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "start": 161,
+                "end": 169,
+                "children": [
+                  {
+                    "start": 161,
+                    "end": 165,
+                    "children": [
+                      {
+                        "start": 161,
+                        "end": 163,
+                        "children": [
+                          {
+                            "start": 161,
+                            "end": 162,
+                            "children": []
+                          },
+                          {
+                            "start": 162,
+                            "end": 163,
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "start": 163,
+                        "end": 165,
+                        "children": [
+                          {
+                            "start": 163,
+                            "end": 164,
+                            "children": []
+                          },
+                          {
+                            "start": 164,
+                            "end": 165,
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "start": 165,
+                    "end": 169,
+                    "children": [
+                      {
+                        "start": 165,
+                        "end": 166,
+                        "children": []
+                      },
+                      {
+                        "start": 166,
+                        "end": 168,
+                        "children": [
+                          {
+                            "start": 166,
+                            "end": 167,
+                            "children": []
+                          },
+                          {
+                            "start": 167,
+                            "end": 168,
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "start": 168,
+                        "end": 169,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "partition": [
+    [
+      [
+        1,
+        [
+          1,
+          [
+            1,
+            1
+          ]
+        ]
+      ],
+      [
+        1,
+        [
+          1,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          [
+            1,
+            1
+          ]
+        ],
+        1
+      ]
+    ],
+    [
+      [
+        [
+          1,
+          [
+            1,
+            [
+              1,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            1,
+            [
+              1,
+              [
+                1,
+                1
+              ]
+            ]
+          ],
+          [
+            1,
+            1
+          ]
+        ]
+      ],
+      [
+        1,
+        [
+          1,
+          [
+            1,
+            1
+          ]
+        ],
+        [
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            1
+          ]
+        ]
+      ],
+      [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          [
+            1,
+            1
+          ]
+        ],
+        [
+          [
+            [
+              1,
+              [
+                1,
+                [
+                  1,
+                  1
+                ]
+              ]
+            ],
+            1
+          ],
+          1
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          [
+            [
+              1,
+              1
+            ],
+            1
+          ],
+          [
+            [
+              1,
+              1
+            ],
+            [
+              [
+                1,
+                1
+              ],
+              1
+            ]
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        [
+          [
+            1,
+            1
+          ],
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          [
+            1,
+            1
+          ]
+        ],
+        1
+      ],
+      [
+        [
+          1,
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            [
+              1,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        [
+          1,
+          [
+            1,
+            [
+              1,
+              1
+            ]
+          ]
+        ],
+        [
+          1,
+          [
+            1,
+            1
+          ]
+        ]
+      ],
+      [
+        [
+          1,
+          [
+            1,
+            1
+          ]
+        ],
+        [
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        [
+          [
+            1,
+            1
+          ],
+          1
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          [
+            1,
+            1
+          ],
+          [
+            [
+              1,
+              1
+            ],
+            [
+              1,
+              1
+            ]
+          ],
+          [
+            1,
+            [
+              1,
+              1
+            ]
+          ]
+        ],
+        [
+          1,
+          [
+            [
+              1,
+              [
+                1,
+                1
+              ]
+            ],
+            1
+          ]
+        ],
+        [
+          1,
+          [
+            1,
+            1
+          ],
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          [
+            1,
+            [
+              1,
+              1
+            ]
+          ],
+          [
+            [
+              1,
+              1
+            ],
+            1
+          ]
+        ],
+        [
+          [
+            [
+              1,
+              1
+            ],
+            1
+          ],
+          1
+        ]
+      ],
+      [
+        [
+          [
+            1,
+            1
+          ],
+          [
+            [
+              1,
+              [
+                1,
+                [
+                  1,
+                  1
+                ]
+              ]
+            ],
+            1
+          ]
+        ],
+        [
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            [
+              1,
+              1
+            ]
+          ],
+          1
+        ],
+        [
+          [
+            1,
+            [
+              1,
+              1
+            ]
+          ],
+          [
+            1,
+            1
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            1,
+            [
+              1,
+              [
+                1,
+                1
+              ]
+            ],
+            [
+              1,
+              1
+            ]
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        [
+          [
+            1,
+            [
+              1,
+              1
+            ],
+            [
+              1,
+              [
+                1,
+                1
+              ]
+            ]
+          ],
+          [
+            [
+              1,
+              [
+                1,
+                1
+              ]
+            ],
+            1
+          ],
+          [
+            [
+              1,
+              [
+                1,
+                1
+              ]
+            ],
+            [
+              1,
+              1
+            ]
+          ],
+          [
+            [
+              1,
+              1
+            ],
+            1
+          ]
+        ],
+        [
+          [
+            [
+              1,
+              1
+            ],
+            [
+              1,
+              1
+            ]
+          ],
+          [
+            1,
+            [
+              1,
+              1
+            ],
+            1
+          ]
+        ]
+      ]
+    ]
+  ]
+}
